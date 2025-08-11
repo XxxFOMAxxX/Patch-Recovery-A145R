@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       RECOVERY_URL:
-        description: 'RECOVERY URL'
+        description: 'https://dropmefiles.com/SIL2U'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://dropmefiles.com/SIL2U'
 
 env:
   RECOVERY_URL: https://oshi.at/Rpjg
